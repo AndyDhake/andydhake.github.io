@@ -1,2 +1,2 @@
-# $Anagh Paresh Dhake$
-## Welcome to my website 🖖
+## Anagh Paresh Dhake
+### 🖖, you have landed on my website!

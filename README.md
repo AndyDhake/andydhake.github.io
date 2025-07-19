@@ -4,4 +4,4 @@
 ## About Anagh
 ### Anagh is currently an undergrad at the Department of Mathematics, Indian Institute of Technology Bombay.
 ### [LLAP](https://www.youtube.com/watch?v=Iu1qa8N2ID0) 🖖
-<span style="color:#fff; font-family: 'Bebas Neue'; font-size: 4em;">INSPIRATION DAY</span>
+<span style="color: #f2cf4a; font-family: Babas; font-size: 2em;">INSPIRATION DAY</span>
